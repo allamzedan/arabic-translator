@@ -1,1 +1,1 @@
-alert=("Ya hla wallah\n Sho beddak??")
+alert("Ya hla wallah\n Sho beddak??");
