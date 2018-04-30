@@ -1,1 +1,1 @@
-alert("مرة وأنا صغير أبوي أعطاني خمسين شيكل\n المهم حكالي بده عوامة، قلت له حاضر يابا \n");
+alert("<img src="http://geeksonaplane.com/wp-content/uploads/2015/11/gaza_sky_geeks_square.png">");
