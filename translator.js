@@ -1,1 +1,1 @@
-alert("<img src="http://geeksonaplane.com/wp-content/uploads/2015/11/gaza_sky_geeks_square.png">");
+alert("Ahleen Shabab Gaza Sky Geeks\nI am still working on this.");
